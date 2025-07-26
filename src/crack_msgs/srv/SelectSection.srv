@@ -1,0 +1,6 @@
+#request
+
+---
+#response
+int8 result
+# int8 select_section #user select section

@@ -1,0 +1,5 @@
+#Request
+int8 danger
+---
+#Response
+string response_result

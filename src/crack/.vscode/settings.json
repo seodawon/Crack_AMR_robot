@@ -1,0 +1,36 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/park/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/park/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/home/park/turtlebot4_ws/build/turtlebot4_openai_tutorials",
+        "/home/park/turtlebot4_ws/install/turtlebot4_openai_tutorials/lib/python3.10/site-packages",
+        "/home/park/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/park/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/srv_pkg/lib/python3.10/site-packages",
+        "/home/park/rokey3_c1_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/park/rokey3_c1_ws/install/crack_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/argus_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/argus/lib/python3.10/site-packages",
+        "/home/park/ro_ws/install/srv_pkg/lib/python3.10/site-packages",
+        "/home/park/ro_ws/install/my_pack/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/park/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/park/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/home/park/turtlebot4_ws/build/turtlebot4_openai_tutorials",
+        "/home/park/turtlebot4_ws/install/turtlebot4_openai_tutorials/lib/python3.10/site-packages",
+        "/home/park/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/park/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/srv_pkg/lib/python3.10/site-packages",
+        "/home/park/rokey3_c1_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/park/rokey3_c1_ws/install/crack_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/argus_msgs/local/lib/python3.10/dist-packages",
+        "/home/park/rokey3_c1_ws/install/argus/lib/python3.10/site-packages",
+        "/home/park/ro_ws/install/srv_pkg/lib/python3.10/site-packages",
+        "/home/park/ro_ws/install/my_pack/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

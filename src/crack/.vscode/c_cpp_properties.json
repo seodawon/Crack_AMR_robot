@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/park/turtlebot4_ws/install/turtlebot4_node/include/**",
+        "/home/park/turtlebot4_ws/install/turtlebot4_msgs/include/**",
+        "/home/park/turtlebot4_ws/install/multirobot_map_merge/include/**",
+        "/home/park/turtlebot4_ws/install/explore_lite/include/**",
+        "/home/park/rokey3_c1_ws/install/crack_msgs/include/**",
+        "/home/park/rokey3_c1_ws/install/argus_msgs/include/**",
+        "/home/park/ro_ws/install/my_pack/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/park/rokey3_c1_ws/src/crack_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
