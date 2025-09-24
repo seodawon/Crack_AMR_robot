@@ -47,3 +47,14 @@ ros2 launch turtlebot4_viz view_robot.launch.py namespace:=/robot6
 ros2 launch turtlebot4_navigation localization.launch.py namespace:=robot7 map:=$HOME/rokey_c1_mini/src/crack/map/map.yaml
 ros2 launch turtlebot4_navigation nav2.launch.py namespace:=/robot7
 ros2 launch turtlebot4_viz view_robot.launch.py namespace:=/robot7
+
+### ✅ (2) 커스텀 ROS2 노드 실행
+'''bash
+# AMR 1 (순찰 로봇) 실행
+ros2 run crack amr1 --ros-args -r __ns:=/robot6 -r /tf:=/robot6/tf -r /tf_static:=/robot6/tf_static
+
+# AMR 2 (대피 안내 로봇) 실행
+ros2 run crack amr2 --ros-args -r __ns:=/robot7 -r /tf:=/robot7/tf -r /tf_static:=/robot7/tf_static
+
+# AMR 2 사람 추종 로직 실행
+ros2 run crack inverse_tracking --ros-args -r __ns:=/robot7 -r /tf:=/robot7/tf -r /tf_static:=/robot7/tf_static
