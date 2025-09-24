@@ -10,7 +10,7 @@
 [![Crack Demo](https://img.youtube.com/vi/RlI6yj5Fucw/0.jpg)](https://youtu.be/RlI6yj5Fucw)  
 ➡ 영상 클릭 시, YouTube 재생  
 
-**Crack!**은 SLAM 기반 자율주행 로봇(AMR) 두 대가 협력하여 건물의 균열을 탐지하고, 위험 상황 발생 시 내부 인원에게 **최적의 대피 경로**를 안내하는 지능형 로봇 시스템입니다.  
+** Crack! **은 SLAM 기반 자율주행 로봇(AMR) 두 대가 협력하여 건물의 균열을 탐지하고, 위험 상황 발생 시 내부 인원에게 **최적의 대피 경로**를 안내하는 지능형 로봇 시스템입니다.  
 
 - **TurtleBot4 기반 AMR**, ROS2 Humble, NAV2, SLAM 활용  
 - **YOLOv8n + OAK-D Pro 3D 카메라**로 균열/사람 객체 탐지  
